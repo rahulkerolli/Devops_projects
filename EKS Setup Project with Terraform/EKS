@@ -1,0 +1,12 @@
+EKS Setup Project with Terraform
+
+1.eks-backend-terra.tf
+2.Provider.tf
+3.Vpc.tf
+4.Subnets.tf
+5.Internetgw.tf
+6.Rout.tf
+7.Sg.tf
+8.iam_role.tf
+9.eks_cluster.tf
+10.eks_node_group.tf
